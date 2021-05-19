@@ -1,0 +1,131 @@
+body {
+    background-color: #e7ebb2;
+    font-family: Sans-serif;    
+    margin-left: 20px;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    font-variant-caps: all-small-caps;
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+}
+
+.header {
+    padding: 10px;
+    background-color: #bd6447;
+    color: #e7ebb2;
+    border-radius: 15px;
+
+}
+
+
+img {
+    border-radius: 50%;
+    max-width: 15%;
+    height: auto;
+   float:right;
+   padding: 20px;
+   opacity: 90%;
+  }
+
+
+.meinonesentence{
+    text-align:center;
+    font-size: 20px;
+    color: #ac5a40;
+    margin-top: 10px;
+}
+
+
+table, th, td {
+    border: 1px solid #bd6447;
+    color: #bd6447;
+    background-color: #f3f7bd;
+    border-collapse: collapse;
+    padding:10px;
+  }
+.aboutmetable {
+    margin-top: 20px;
+}
+
+
+.hobbies-head{
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.hobbies{
+    margin-left: 200px;
+    margin-top: 15px;
+    border: 1px solid #bd6447 ;
+    color: #bd6447;
+    background-color: #f3f7bd;
+    width: 350px;
+    border-radius: 15px;
+}
+
+
+
+.countonme{
+    font-size: 15px;
+    margin-left: 15px;
+}
+.countp{
+    margin-left: 15px;
+}
+
+.count{
+    margin-left: 350px;
+    margin-top: 15px;
+    border: 1px solid #bd6447 ;
+    color: #bd6447;
+    background-color: #f3f7bd;
+    width: 500px;
+    border-radius: 15px;
+
+}
+
+.story-title{
+    font-size: 15px;
+    margin-left: 15px;
+
+}
+
+.tldr{
+    font-size: 12px;
+    margin-left: 15px;
+
+}
+.tldrp{
+    margin-left: 15px;
+}
+.storyp{
+    margin-left: 15px;
+}
+
+.story{
+    margin-left: 600px;
+    margin-top: 15px;
+    border: 1px solid #bd6447 ;
+    color: #bd6447;
+    background-color: #f3f7bd;
+    width: 750px;
+    border-radius: 15px;
+
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+    border: 1px solid #bd6447 ;
+    color: #bd6447;
+    background-color: #f3f7bd;
+    border-radius: 15px;
+
+}
